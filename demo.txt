@@ -19,6 +19,7 @@ changes
 
 hai 
  on branch master
+
 synch the code
 
 in demo
@@ -27,3 +28,10 @@ in temp
 
 
 temp folder
+
+
+
+on dev branch
+
+on master branch
+
